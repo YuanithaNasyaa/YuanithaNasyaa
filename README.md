@@ -1,17 +1,36 @@
- <div align="center">
 
-# ✦ Yuanitha Nasyaa
+<div align="center">
 
-### Informatics Student | Aspiring Web Developer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:FCE4EC,50:F8BBD0,100:EFB7C8&height=230&section=header&text=Yuanitha%20Nasyaa&fontSize=52&fontColor=8D5268&fontAlignY=40&desc=✧%20Informatics%20Student%20✧&descSize=18&descColor=A66B80&descAlignY=63&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=DB7093&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Learning+%26+Growing+Every+Day;Exploring+Web+%26+Mobile+Development;Turning+Ideas+into+Code+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2800&pause=900&color=C47791&center=true&vCenter=true&width=600&height=55&lines=Welcome+to+my+little+world+%E2%99%A1;Dream.+Design.+Develop.;Exploring+the+world+of+technology;Learning+something+new+every+day+%E2%9C%A8" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](LINK_INSTAGRAM)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuanithaNasyaa)
+<br/>
+
+**୨୧ Informatics Student | Aspiring Developer ୨୧**
+
+*Turning imagination into innovation, one line of code at a time.*
+
+<br/>
+
+<img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=8D5268" />
+
+<br/><br/>
+
+♡ ─────────────── ✧ ─────────────── ♡
 
 </div>
 
----
+## 🌷 About Me
+
+Hello! I'm **Yuanitha Nasyaa**.
+
+- 🎀 Informatics student
+- 💻 Interested in programming and technology
+- 🌸 Currently learning and exploring new things
+- ✨ Always excited to build something meaningful
+
+
 
 ### ✿ About Me
 
