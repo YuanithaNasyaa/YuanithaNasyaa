@@ -17,6 +17,12 @@
 
 <br/><br/>
 
+<a href="https://www.instagram.com/USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=8D5268" />
+</a>
+
+<br/><br/>
+
 ♡ ─────────────── ✧ ─────────────── ♡
 
 </div>
@@ -29,12 +35,23 @@ Hello! I'm **Yuanitha Nasyaa**.
 - 💻 Interested in programming and technology
 - 🌸 Currently learning and exploring new things
 - ✨ Always excited to build something meaningful
+- 📸 Instagram: [@USERNAME](https://www.instagram.com/USERNAME/)
+
+
+## 🌷 About Me
+
+Hello! I'm **Yuanitha Nasya Arthanti**.
+
+- 🎀 Informatics student
+- 💻 Interested in programming and technology
+- 🌸 Currently learning and exploring new things
+- ✨ Always excited to build something meaningful
 
 
 
 ### ✿ About Me
 
-Hello! I'm **Yuanitha Nasyaa**, an Informatics student who loves exploring technology and creating things through code.
+Hello! I'm **Yuanitha Nasya Arthanti**, an Informatics student who loves exploring technology and creating things through code.
 
 - 🎓 Informatics Student
 - 💻 Interested in Web Development & Mobile Development
