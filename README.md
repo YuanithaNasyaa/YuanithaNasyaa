@@ -1,9 +1,10 @@
+# Hi, I'm Yuanitha Nasyaa! 👋🌷
 
-# Hi, I'm Yuanitha! 🌷
+🎓 Informatics Student | 💻 Aspiring Developer
 
-### Welcome to My GitHub Profile ♡
+Welcome to my GitHub Profile!
 
-I'm Yuanitha Nasyaa, an Informatics student who loves learning about technology, programming, and web development.
+I'm Yuanitha Nasyaa, an Informatics student who is passionate about technology, programming, and software development. I enjoy learning new things, exploring different technologies, and building creative projects.
 
 ---
 
@@ -11,45 +12,47 @@ I'm Yuanitha Nasyaa, an Informatics student who loves learning about technology,
 
 - 🎓 Informatics Student
 - 💻 Interested in Web Development and Mobile Development
-- 🌷 Currently learning and exploring new technologies
+- 🌱 Currently learning and exploring new technologies
 - 🎨 Love creating aesthetic and user-friendly interfaces
-- 📚 Always excited to learn something new!
+- ✨ Always excited to learn something new!
 
 ---
 
-### 💻 My Skills
+### 💻 Tech Stack & Tools
 
-| I Have Worked With | I'm Learning | Tools |
-|:---:|:---:|:---:|
-| PHP | JavaScript | VS Code |
-| HTML | React Native | Git |
-| CSS | Mobile Development | GitHub |
-| MySQL | Web Development | XAMPP |
-| Laravel | UI/UX Design | Figma |
-| CodeIgniter | | Cisco Packet Tracer |
-| C# | | Visual Studio |
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### 🎀 My Projects
+**Tools & Development**
 
-- **SenaArt** — Art sharing website.
-- **CATSHOP016** — Cat shop management application.
-- **FoodMap GIS** — Food location mapping application.
-- **Mobile Projects** — React Native and WebView applications.
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuanithaNasyaaa&show_icons=true&theme=rose_pine)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuanithaNasyaa&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanithaNasyaaa&layout=compact&theme=rose_pine)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanithaNasyaa&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌷 My Projects
+
+- [Tugas Mobile](https://github.com/YuanithaNasyaa/Tugas-Mobile-Yuanitha)
+- [WebView Fabric](https://github.com/YuanithaNasyaa/Tugas-Mobile-WebViewFabric)
+- [Tic Tac Toe](https://github.com/YuanithaNasyaa/TugasTicTacToe)
+- [Todo App](https://github.com/YuanithaNasyaa/TugasTodoApp)
 
 ---
 
 ### 💌 Let's Connect!
 
-Thank you for visiting my profile!
+Feel free to explore my repositories and follow my journey as I continue learning and growing in technology.
 
-*Keep learning, keep growing, and keep creating.* 🌷♡
+**Thanks for visiting my profile! ♡**
