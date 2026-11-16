@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=8D5268" />
 
-<a href="https://www.instagram.com/USERNAME/" target="_blank">
+<a href="https://www.instagram.com/sleepyyyuan/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=8D5268" />
 </a>
 
